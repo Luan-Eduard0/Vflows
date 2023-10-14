@@ -10,7 +10,7 @@ function adicionarProduto() {
     var produtoFields = `
     
     <div class="row">
-    <div class="col-md-3"> <!-- Coluna para a imagem -->
+    <div class="col-md-3">
         <img src="https://cdn-icons-png.flaticon.com/512/65/65998.png" alt="Ícone" class="round-image">
     </div>
     <div class="col-md-9"> 
@@ -100,7 +100,6 @@ function incluirAnexo() {
 
                 anexos.push(novoAnexo);
 
-                // Exiba o nome do arquivo na interface do usuário
                 var novoAnexoElement = $("<div></div>").text(nomeArquivo);
                 anexosDiv.append(novoAnexoElement);
             };
