@@ -1,0 +1,275 @@
+@media (min-width: 768px) {
+    body {
+        font-family: sans-serif;
+        background-color: #f5f5f5;
+      }
+      
+      h1 {
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+      }
+      
+      form {
+        width: 500px;
+        margin: 0 auto;
+      }
+      
+      fieldset {
+        border: 1px solid #ccc;
+        padding: 20px;
+      }
+      
+      legend {
+        font-size: 1.2em;
+        margin-bottom: 10px;
+      }
+      
+      .form-group {
+        margin-bottom: 10px;
+      }
+      
+      .form-control {
+        width: 100%;
+        padding: 6px 12px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+      }
+      .form-border {
+        border: 1px solid #ccc; /* Define a largura e a cor da borda */
+        padding: 20px; /* Define o espaço interno (espaço dentro da borda) */
+        margin: 0; /* Define a margem para zero para que fique no início da tela */
+    }
+    
+      
+      button {
+        background-color: #4CAF50;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 1.2em;
+      }
+      
+      button:hover {
+        background-color: #42A54A;
+      }
+      .card-title {
+        background-color: #66afe9;
+        color: white;
+      }
+      s.card {
+        border: 1px solid black;
+        padding: 20px; 
+        margin: 20px; 
+    }
+    
+    .form-control {
+        border: 1px solid black; 
+        margin-bottom: 10px; 
+    }
+    .card-body {
+      padding-top: 00px; /* Adiciona um espaço acima do conteúdo do card-body */
+    }
+    .card-title {
+      margin-bottom: 00px; /* Adiciona uma margem abaixo do título do card */
+    }
+    .card {
+      margin: 35px; /* Margem em torno do card */
+      border: 1px solid black;
+      border-radius: 10px; /* Adiciona bordas arredondadas ao título */
+    }
+    .custom-row {
+      display: inline-block;
+      margin-right: 20px; /* Adiciona margem direita entre os campos */
+    }
+    .form-control {
+      border-radius: 10px;
+    }
+    .blue-background {
+      background-color: #66afe9;
+      color: white;
+    }
+    .custom-width-label {
+      width: 70%;
+      max-width: 70%;
+    }
+    .form-container {
+      border: 1px solid #ccc; /* Adiciona uma borda com uma cor cinza */
+      padding: 20px; /* Adiciona espaço interno (margens) de 20px */
+    }
+    .button-color {
+      background-color: #42A54A;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      width: 1200px; 
+      height: 42px; 
+      margin-left:75px;
+      margin-right:75px;
+  }
+    .btn-trash {
+        width: 20px; 
+        height: 20px; 
+        background-image: url('https://cdn-icons-png.flaticon.com/512/3141/3141477.png'); 
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        border: none;
+    }
+}
+
+@media (min-width: 992px) {
+    body {
+        font-family: sans-serif;
+        background-color: #f5f5f5;
+      }
+      
+      h1 {
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+      }
+      
+      form {
+        width: 500px;
+        margin: 0 auto;
+      }
+      
+      fieldset {
+        border: 1px solid #ccc;
+        padding: 20px;
+      }
+      
+      legend {
+        font-size: 1.2em;
+        margin-bottom: 10px;
+      }
+      
+      .form-group {
+        margin-bottom: 10px;
+      }
+      
+      .form-control {
+        width: 100%;
+        padding: 6px 12px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+      }
+      .form-border {
+        border: 1px solid #ccc; /* Define a largura e a cor da borda */
+        padding: 20px; /* Define o espaço interno (espaço dentro da borda) */
+        margin: 0; /* Define a margem para zero para que fique no início da tela */
+    }
+    
+      
+      button {
+        background-color: #4CAF50;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 1.2em;
+      }
+      
+      button:hover {
+        background-color: #42A54A;
+      }
+      .card-title {
+        background-color: #66afe9;
+        color: white;
+      }
+      s.card {
+        border: 1px solid black;
+        padding: 20px; 
+        margin: 20px; 
+    }
+    
+    .form-control {
+        border: 1px solid black; 
+        margin-bottom: 10px; 
+    }
+    .card-body {
+      padding-top: 00px; /* Adiciona um espaço acima do conteúdo do card-body */
+    }
+    .card-title {
+      margin-bottom: 00px; /* Adiciona uma margem abaixo do título do card */
+    }
+    .card {
+      margin: 35px; /* Margem em torno do card */
+      border: 1px solid black;
+      border-radius: 10px; /* Adiciona bordas arredondadas ao título */
+    }
+    .custom-row {
+      display: inline-block;
+      margin-right: 20px; /* Adiciona margem direita entre os campos */
+    }
+    .form-control {
+      border-radius: 10px;
+    }
+    .blue-background {
+      background-color: #66afe9;
+      color: white;
+    }
+    .custom-width-label {
+      width: 70%;
+      max-width: 70%;
+    }
+    .form-container {
+      border: 1px solid #ccc; /* Adiciona uma borda com uma cor cinza */
+      padding: 20px; /* Adiciona espaço interno (margens) de 20px */
+    }
+    .button-color {
+      background-color: #42A54A;
+      color: white;
+      padding: 10px 40px; /* Aumenta o tamanho do botão lateralmente */
+      border: none;
+      border-radius: 5px;
+  }
+    .btn-trash {
+        width: 50px; 
+        height: 50px;
+        background-image: url('https://cdn-icons-png.flaticon.com/512/3141/3141477.png'); 
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        border: black;
+    }
+    .fieldset-ampliado {
+        width: 90%;
+    }   
+    
+    .round-image {
+      width: 175px;
+      height: 175px;
+      background: #9483df; 
+      border: 1px solid #9483df; 
+      border-radius: 50%;
+  }
+  .select-with-arrow {
+    background-image: url('https://cdn-icons-png.flaticon.com/512/60/60995.png'); 
+    background-position: right center; /* Posiciona a seta à direita e centralizada verticalmente */
+    background-repeat: no-repeat;
+    padding-right: 20px; /* Ajuste conforme necessário para o tamanho do ícone */
+    padding-left: 0; /* Remove o padding à esquerda */
+    margin-right: 10px; /* Espaço adicional à direita, ajuste conforme necessário */
+    background-size: 20px 20px;
+}
+.custom-card {
+  margin: 20px; /* Defina o valor da margem conforme necessário */
+}
+.btn-eye{
+  background-image: "https://p1.hiclipart.com/preview/244/369/177/eye-icon-eyecons-icon-view-icon-gestures-icon-logo-symbol-blackandwhite-emblem-circle-png-clipart.jpg";
+  background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        border: black;
+        width: 50px; 
+        height: 50px;
+}
+
+    }
